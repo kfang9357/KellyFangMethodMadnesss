@@ -8,5 +8,6 @@ public class Main {
         System.out.println(kfanglib.isFibonacci(5));
         System.out.println(kfanglib.isPalindrome("mom"));
         System.out.println(kfanglib.sumUpTo(3));
+        System.out.println("Hello!");
     }
 }
